@@ -1,0 +1,28 @@
+# NOVAXA
+
+> Live Better. Look Better.
+
+NOVAXA is a considered edit of accessories and gadgets for a better life —
+premium technology accessories, designed with restraint and built to last.
+
+Official site: https://novaxastore.store
+
+## Pages
+
+- [Home](https://novaxastore.store/): NOVAXA homepage — brand introduction, featured collections and products.
+- [Shop](https://novaxastore.store/shop): The full NOVAXA product edit.
+- [Accessories](https://novaxastore.store/accessories): The accessories category.
+- [About](https://novaxastore.store/about): NOVAXA's philosophy and approach.
+- [Contact](https://novaxastore.store/contact): Get in touch with NOVAXA.
+- [Careers](https://novaxastore.store/careers): NOVAXA careers.
+- [Shipping](https://novaxastore.store/shipping): Shipping information.
+- [Returns](https://novaxastore.store/returns): Returns policy.
+- [FAQ](https://novaxastore.store/faq): Frequently asked questions.
+- [Privacy Policy](https://novaxastore.store/privacy): Privacy policy (final legal copy pending).
+- [Terms & Conditions](https://novaxastore.store/terms): Terms and conditions (final legal copy pending).
+
+## Notes
+
+This file is a supplement, not a replacement for /sitemap.xml, /robots.txt,
+structured data, or normal crawlable HTML — all of which exist independently
+on this site.
