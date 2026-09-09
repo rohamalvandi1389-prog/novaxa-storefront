@@ -39,7 +39,7 @@ export async function shopifyRequest<
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "X-Shopify-Storefront-Access-Token": storefrontAccessToken,
+        "Shopify-Storefront-Private-Token": storefrontAccessToken,
       },
       body: JSON.stringify({ query, variables }),
       ...(options && {
